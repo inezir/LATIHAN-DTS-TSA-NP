@@ -1,0 +1,6 @@
+Nama Perangkat: Cisco Router 2811
+Lokasi: Gedung A
+Nama Perangkat: Cisco Catalyst Switch 2960
+Lokasi: Gedung B
+Nama Perangkat: Cisco ASA 5511
+Lokasi: Gedung C
