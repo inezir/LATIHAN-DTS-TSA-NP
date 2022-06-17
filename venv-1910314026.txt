@@ -1,0 +1,1 @@
+Requirement already satisfied: terminal-banner in /home/devasc/.local/lib/python3.8/site-packages (0.2.0)
